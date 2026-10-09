@@ -1,0 +1,42 @@
+{
+  "name": "ZARXEC Hackerboy #044",
+  "symbol": "ZHB",
+  "description": "A unique 1/1 digital collectible from ZARXEC Hackerboy, a 100-piece Solana collection combining 10 costumes with 10 expressions.",
+  "image": "https://maroon-petite-firefly-163.mypinata.cloud/ipfs/bafybeif7tkdskkfuobmyhgiq6qzog4fkygsyha2yc76xslyfijpovrvyaa/044_black-bandana_triaged.png",
+  "category": "image",
+  "attributes": [
+    {
+      "trait_type": "Costume",
+      "value": "Black Shirt and Bandana"
+    },
+    {
+      "trait_type": "Expression",
+      "value": "Triaged"
+    },
+    {
+      "trait_type": "Effect Color",
+      "value": "Original"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Warm brown — darker revision"
+    },
+    {
+      "trait_type": "Collection Number",
+      "value": 44
+    },
+    {
+      "trait_type": "Edition",
+      "value": "1 of 1"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://maroon-petite-firefly-163.mypinata.cloud/ipfs/bafybeif7tkdskkfuobmyhgiq6qzog4fkygsyha2yc76xslyfijpovrvyaa/044_black-bandana_triaged.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
